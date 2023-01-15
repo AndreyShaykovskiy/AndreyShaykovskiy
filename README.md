@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-This is where I collect my works. I will be glad if you get acquainted with them.
+This is the place where I collect my works. I will be glad if you check them.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
